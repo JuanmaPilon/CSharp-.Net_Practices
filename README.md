@@ -1,2 +1,3 @@
-# C-_Practices
-Bunch of practices made with React and other technologies C#
+# C# & .Net
+
+This repo is mainly to document my journey in learning C# and .Net
