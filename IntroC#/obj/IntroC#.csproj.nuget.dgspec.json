@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\C#_Practices\\IntroC#\\IntroC#.csproj": {}
+    "C:\\Coding\\CSharp-.Net_Practices\\IntroC#\\IntroC#.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\C#_Practices\\IntroC#\\IntroC#.csproj": {
+    "C:\\Coding\\CSharp-.Net_Practices\\IntroC#\\IntroC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\C#_Practices\\IntroC#\\IntroC#.csproj",
+        "projectUniqueName": "C:\\Coding\\CSharp-.Net_Practices\\IntroC#\\IntroC#.csproj",
         "projectName": "IntroC#",
-        "projectPath": "C:\\Coding\\C#_Practices\\IntroC#\\IntroC#.csproj",
+        "projectPath": "C:\\Coding\\CSharp-.Net_Practices\\IntroC#\\IntroC#.csproj",
         "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\C#_Practices\\IntroC#\\obj\\",
+        "outputPath": "C:\\Coding\\CSharp-.Net_Practices\\IntroC#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
