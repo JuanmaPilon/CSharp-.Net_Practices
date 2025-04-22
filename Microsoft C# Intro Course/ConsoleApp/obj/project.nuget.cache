@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwQfw7ZKqUM=",
+  "success": true,
+  "projectFilePath": "C:\\Coding\\CSharp-.Net_Practices\\Microsoft C# Intro Course\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanm\\.nuget\\packages\\pastel\\6.0.1\\pastel.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

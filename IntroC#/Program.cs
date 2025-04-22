@@ -1,4 +1,6 @@
 ﻿
+using System.Linq.Expressions;
+
 var sale = new Sale();
 var game = new Game();
 
@@ -94,3 +96,31 @@ class Sale
 }
 
 
+var numbers = new MyList<int>(10);
+var names = new MyList<string>(10);
+numbers.Add(1);
+numbers.Add(2);
+numbers.Add(3);
+
+public class MyList<T>
+{
+
+    private List<T> _list;
+    private int _limit;
+
+    public MyList(int limit)
+    {
+        _limit = _limit;
+    }
+
+    public void Add(T item)
+    {
+        if(_list.Count < _limit)
+        _list.Add(item);
+    }
+
+    public string GetContent()
+    {
+        
+    }
+}
