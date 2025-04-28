@@ -13,21 +13,3 @@ C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\Consoleapp intro\Conso
 C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\Consoleapp intro\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\Consoleapp intro\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\Consoleapp intro\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\bin\Debug\net9.0\Pastel.dll
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.AssemblyReference.cache
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.Up2Date
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
-C:\Coding\CSharp-.Net_Practices\Microsoft C# Intro Course\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
