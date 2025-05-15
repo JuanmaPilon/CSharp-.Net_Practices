@@ -279,3 +279,90 @@ using System.Text.Json.Serialization;
 //                                             //          "Observer 2 received message: Hello, Observers!"
 //     }
 // }
+
+
+// public class Person
+// {
+//     // Define the Name property
+//     public string Name { get; set; }
+
+//     // Define the Age property
+//     public int Age { get; set; }
+// }
+
+// public class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         // Create the first Person object
+//         Person friend = new Person();
+//         friend.Name = "John Doe";
+//         friend.Age = 30;
+
+//         // Create the second Person object
+//         Person colleague = new Person();
+//         colleague.Name = "Jane Smith";
+//         colleague.Age = 25;
+//     }
+// }
+
+
+// public class Person
+// {
+//     public string Name { get; set; }
+//     public int Age { get; set; }
+
+//     // Define the Greet method
+//     public void Greet()
+//     {
+//         Console.WriteLine("Hello, my name is " + Name);
+//     }
+// }
+
+// public class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         // Create the first Person object
+//         Person friend = new Person();
+//         friend.Name = "John Doe";
+//         friend.Age = 30;
+
+//         // Create the second Person object
+//         Person colleague = new Person();
+//         colleague.Name = "Jane Smith";
+//         colleague.Age = 25;
+
+//         // Call the Greet method on each object
+//         friend.Greet(); // Output: Hello, my name is John Doe
+//         colleague.Greet(); // Output: Hello, my name is Jane Smith
+//     }
+// }
+
+
+
+// public class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         // Create the first Person object
+//         Person friend = new Person();
+//         friend.Name = "John Doe";
+//         friend.Age = 30;
+
+//         // Create the second Person object
+//         Person colleague = new Person();
+//         colleague.Name = "Jane Smith";
+//         colleague.Age = 25;
+
+//         // Create the third Person object
+//         Person newPerson = new Person();
+//         newPerson.Name = "Mike Johnson";
+//         newPerson.Age = 35;
+
+//         // Call the Greet method on each object
+//         friend.Greet(); // Output: Hello, my name is John Doe
+//         colleague.Greet(); // Output: Hello, my name is Jane Smith
+//         newPerson.Greet(); // Output: Hello, my name is Mike Johnson
+//     }
+// }
